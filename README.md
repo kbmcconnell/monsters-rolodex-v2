@@ -1,4 +1,4 @@
-# Monsters Rolodex
+# Monsters Rolodex v2
 This is a simple 1 page application made with React class components
 
 # Getting Started with Create React App
